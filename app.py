@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("C:\Users\KIM NGỌC\Downloads\1780618555763_2060573145105636155_7084828355181752305_62f45dd5d252fc2c6bd894a09259fa60.jpg")
+st.image("1780618555763_2060573145105636155_7084828355181752305_62f45dd5d252fc2c6bd894a09259fa60.jpg")
 # Tiêu đề ứng dụng
 st.title("💰 Ứng dụng tính tiền gửi tiết kiệm")
 
